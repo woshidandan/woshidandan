@@ -2,4 +2,4 @@
 
 I am currently working on PhD.
 
-让我看看，是谁又在白嫖不点Star☆！
+您的Star☆，是我们持续开源的动力！
