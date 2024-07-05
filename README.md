@@ -1,4 +1,4 @@
-## BUPT美学村一代目 👋
+## Hi 👋
 
 I am currently working on PhD.
 
