@@ -2,13 +2,12 @@
 
 I am currently working on PhD.
 
-
 <h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <thead style="text-align: center;">
+    <tr>
+      <th><b>🎁 Projects</b></th>
+      <th><b>⭐ Stars</b></th>
     </tr>
   </thead>
   
@@ -28,8 +27,8 @@ I am currently working on PhD.
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
-  
 </table>
+
 
 
 
