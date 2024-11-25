@@ -22,45 +22,6 @@
 </table>
 
 
-
-
-
-<h3>Open source projects</h3>
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <thead style="text-align: center;">
-    <tr>
-      <th><b>🎁 Projects</b></th>
-      <th><b>⭐ Stars</b></th>
-    </tr>
-  </thead>
-  
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment"><b>Pixel-level image exposure assessment</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	 
-    <tr>
-      <td><a href="https://github.com/woshidandan/TANet-image-aesthetics-and-quality-assessment"><b>Theme-oriented image aesthetics assessment</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/TANet-image-aesthetics-and-quality-assessment?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
-
-## Hi 👋
-
-I am currently working on PhD.
-
-
-
-
-
 您的Star☆，是我们持续开源的动力！
 
 IAA&IQA交流Q群: 651069873，加群请备注学校-姓名
