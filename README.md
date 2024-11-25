@@ -6,16 +6,19 @@
   <thead align="center">
     <tr>
       <td><b>🎁 Projects</b></td>
+      <td><b>📚 Publication</b></td>
       <td><b>⭐ Stars</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment"><b>Pixel-level image exposure assessment</b></a></td>
+      <td><b>NIPS 2024</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Pixel-level-No-reference-Image-Exposure-Assessment?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/woshidandan/TANet-image-aesthetics-and-quality-assessment"><b>Theme-oriented image aesthetics assessment</b></a></td>
+      <td><b>IJCAI 2022</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/TANet-image-aesthetics-and-quality-assessment?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
