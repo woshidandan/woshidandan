@@ -58,6 +58,12 @@
       <td><b>Code</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/AK4Prompts?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/mRobotit/M2Beats"><b>Motion rhythm synchronization with beats【动作与韵律对齐】</b></a></td>
+      <td><b>IJCAI 2024</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/starsmRobotit/M2Beats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     
   </tbody>
 </table>
