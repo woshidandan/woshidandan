@@ -10,8 +10,6 @@
     </tr>
   </thead>
   <tbody>
-
-
     <tr>
       <td><a href="https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment"><b>Personalized Aesthetics Assessment【个性化美学评估新范式】</b></a></td>
       <td><b>CVPR 2025</b></td>
