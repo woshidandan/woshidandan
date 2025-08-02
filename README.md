@@ -82,8 +82,16 @@
       <td><b>Code</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Champion-Solution-for-CVPR-NTIRE-2024-Quality-Assessment-on-AIGC?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://www.itu.int/ITU-T/recommendations/rec.aspx?id=15614"><b>ITU Standard for Image Aesthetics Assessment Metadata【首个图像美学元数据国际标准】</b></a></td>
+      <td><b>ITU 2023</b></td>
+      <td><b>-</b></td>
+      <td><img alt="Link" src="https://www.itu.int/ITU-T/recommendations/rec.aspx?id=15614"/></td>
+    </tr>
   </tbody>
 </table>
+
+
 
 
 学术有影响，产业有输出，社会有贡献！
