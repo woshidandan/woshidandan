@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment"><strong>Personalized Aesthetics Assessment【个性化美学评估新范式】</strong></a></td>
-      <td><strong>CVPR 2025</strong></td>
+      <td><strong>CVPR 2025 (Highlight)</strong></td>
       <td><strong>Code, Dataset</strong></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Rethinking-Personalized-Aesthetics-Assessment?style=flat-square&labelColor=343b41"/></td>
     </tr>
