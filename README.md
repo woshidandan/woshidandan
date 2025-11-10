@@ -20,10 +20,10 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/woshidandan/Aesthetics-Assessment-of-Image-Color-Temperature"><strong>Aesthetics of Image Color Temperature【色温美学评估】</strong></a></td>
+      <td><a href="https://github.com/chasecjg/ICTA2Net"><strong>Aesthetics of Image Color Temperature【色温美学评估】</strong></a></td>
       <td><strong>AAAI 2026</strong></td>
       <td><strong>Code, Dataset</strong></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Aesthetics-Assessment-of-Image-Color-Temperature?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/ICTA2Net?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/woshidandan/Attacker-against-image-aesthetics-assessment-model"><strong>Attacker Against IAA Model【美学模型的攻击和安全评估框架】</strong></a></td>
