@@ -13,9 +13,6 @@
     </tr>
   </thead>
   <tbody>
-
- 
-    
     <tr>
       <td><a href="https://github.com/woshidandan/Attacker-against-image-aesthetics-assessment-model"><strong>Attacker Against IAA Model【美学模型的攻击和安全评估框架】</strong></a></td>
       <td><strong>TIP 2025</strong></td>
