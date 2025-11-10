@@ -14,6 +14,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models"><strong>Assessing Aesthetics via MLLMs【解决MLLMs对分数不敏感问题】</strong></a></td>
+      <td><strong>AAAI 2026 (Oral) </strong></td>
+      <td><strong>Code</strong></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/woshidandan/Aesthetics-Assessment-of-Image-Color-Temperature"><strong>Aesthetics of Image Color Temperature【色温美学评估】</strong></a></td>
       <td><strong>AAAI 2026</strong></td>
       <td><strong>Code, Dataset</strong></td>
