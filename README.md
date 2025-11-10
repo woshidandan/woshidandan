@@ -10,12 +10,20 @@
     </tr>
   </thead>
   <tbody>
+
+    <tr>
+      <td><a href="https://github.com/woshidandan/Aesthetics-Assessment-of-Image-Color-Temperature"><b>Aesthetics of Image Color Temperature【色温美学评估】</b></a></td>
+      <td><b>AAAI 2026</b></td>
+      <td><b>Code, Dataset</b></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Aesthetics-Assessment-of-Image-Color-Temperature?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
     <tr>
       <td><a href="https://github.com/woshidandan/Attacker-against-image-aesthetics-assessment-model"><b>Attacker Against IAA Model【美学模型的攻击和安全评估框架】</b></a></td>
       <td><b>TIP 2025</b></td>
       <td><b>Code, Dataset</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Attacker-against-image-aesthetics-assessment-model?style=flat-square&labelColor=343b41"/></td>
-    </tr
+    </tr>
     <tr>
       <td><a href="https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment"><b>Personalized Aesthetics Assessment【个性化美学评估新范式】</b></a></td>
       <td><b>CVPR 2025</b></td>
