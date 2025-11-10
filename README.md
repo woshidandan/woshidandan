@@ -20,6 +20,12 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Attacker-against-image-aesthetics-assessment-model?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/woshidandan/Attacker-against-image-aesthetics-assessment-model"><strong>Attacker Against IAA Model【美学模型的攻击和安全评估框架】</strong></a></td>
+      <td><strong>TIP 2025</strong></td>
+      <td><strong>Code, Dataset</strong></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Attacker-against-image-aesthetics-assessment-model?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment"><strong>Personalized Aesthetics Assessment【个性化美学评估新范式】</strong></a></td>
       <td><strong>CVPR 2025</strong></td>
       <td><strong>Code, Dataset</strong></td>
