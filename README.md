@@ -18,7 +18,7 @@
       <td><b>TIP 2025</b></td>
       <td><b>Code, Dataset</b></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Attacker-against-image-aesthetics-assessment-model?style=flat-square&labelColor=343b41"/></td>
-    </tr
+    </tr>
     <tr>
       <td><a href="https://github.com/woshidandan/Rethinking-Personalized-Aesthetics-Assessment"><b>Personalized Aesthetics Assessment【个性化美学评估新范式】</b></a></td>
       <td><b>CVPR 2025</b></td>
