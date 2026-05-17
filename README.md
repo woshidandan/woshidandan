@@ -13,8 +13,6 @@
     </tr>
   </thead>
   <tbody>
-
-
     <tr>
       <td><a href="https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models"><strong>Assessing Aesthetics via MLLMs【解决MLLMs对分数不敏感问题】</strong></a></td>
       <td><strong>AAAI 2026 (Oral) </strong></td>
