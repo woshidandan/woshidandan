@@ -13,6 +13,14 @@
     </tr>
   </thead>
   <tbody>
+
+    <tr>
+      <td><a href="https://github.com/woshidandan/Rethinking-Long-Tail-for-Image-Aesthetics-Assessment"><strong>Long-tail 2.0 solution for image aesthetics assessment【美学评估数据不平衡2.0解决方案】</strong></a></td>
+      <td><strong>IJCV 2026</strong></td>
+      <td><strong>Code</strong></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/Rethinking-Long-Tail-for-Image-Aesthetics-Assessment?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    
     <tr>
       <td><a href="https://github.com/woshidandan/Assessing-Image-Aesthetics-via-Multimodal-Large-Language-Models"><strong>Assessing Aesthetics via MLLMs【解决MLLMs对分数不敏感问题】</strong></a></td>
       <td><strong>AAAI 2026 (Oral) </strong></td>
