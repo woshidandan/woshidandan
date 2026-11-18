@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/woshidandan/ACE-AWB-with-Aesthetic-Aware-Sequential-Color-Correction"><strong>Aesthetics-guided AWB【美学引导的AWB】</strong></a></td>
-      <td><strong>ACMMM 2026 (Outstanding Paper Award)</strong></td>
+      <td><strong>ACMMM 2026 // (Outstanding Paper Award)</strong></td>
       <td><strong>Code, Dataset</strong></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/woshidandan/ACE-AWB-with-Aesthetic-Aware-Sequential-Color-Correction?style=flat-square&labelColor=343b41"/></td>
     </tr>
